@@ -1,4 +1,4 @@
-/* Exemplo 01 */
+/* Exemplo 01 - if Simples */
 
 let diaSemana = new Date();
 
